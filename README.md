@@ -11,6 +11,7 @@ algorithms like Logistic Regression, Random Forests, or Gradient
 Boosting to predict churn.
 
 
+![Customer Churn Prediction](https://github.com/programmarself/CodSoft-MachineLearning-Internship-Task-3/assets/134633289/f0a0bf87-33c5-42eb-9eb1-81ede0d216af)
 
 
 <h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨💻Author: Irfan Ullah Khan</h1>
